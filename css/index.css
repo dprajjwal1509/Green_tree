@@ -670,6 +670,12 @@
         width: 100%;
     }
 
+    .the-image {
+        width: 50%;
+        height: auto;
+        margin-left: 30%;
+    }
+
     html {
         font-size: 16px;
     }
@@ -721,6 +727,7 @@
     }
 
     .the-issue {
+        transform: translateY(-65%);
         width: 20%;
         font: normal normal normal Helvetica;
         position: relative;
@@ -898,6 +905,10 @@
         width: 90%;
         height: 40%;
 
+    }
+
+    .did-you-know {
+        transform: translateY(45%);
     }
 
     .stories-content {
