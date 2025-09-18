@@ -666,6 +666,10 @@
 
 
 @media (max-width: 1024px) and (min-width: 601px) {
+    * {
+        width: 100%;
+    }
+
     html {
         font-size: 16px;
     }
